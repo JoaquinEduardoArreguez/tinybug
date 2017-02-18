@@ -1,0 +1,14 @@
+Micronucleus Bootloader
+https://github.com/micronucleus/micronucleus/tree/master/firmware
+
+vusb wiki
+http://vusb.wikidot.com/
+
+Code and Life VUSB tutorial
+http://codeandlife.com/topics/v-usb-electronics/
+
+VUSB's PowerSwitch implementation (custom USB Device example)
+https://www.obdev.at/products/vusb/powerswitch.html
+
+VUSB's EasyLogger implementation (Using attiny's without crytal)
+https://www.obdev.at/products/vusb/easylogger.html
